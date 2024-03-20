@@ -1,0 +1,1 @@
+This will encrypt and decrypt files using AES-256
